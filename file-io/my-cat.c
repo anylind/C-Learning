@@ -21,5 +21,7 @@ int main(int argc, char *argv[])
         putchar(c);
     }
 
+    fclose(file);
+
     return 0;
 }
