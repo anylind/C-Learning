@@ -56,3 +56,5 @@ dkms.conf
 
 # Makefile
 build/
+*.db
+*.tmp
