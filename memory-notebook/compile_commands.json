@@ -1,0 +1,50 @@
+[
+  {
+    "file": "src/logic.c",
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-Iinclude",
+      "-c",
+      "src/logic.c",
+      "-o",
+      "build/logic.o"
+    ],
+    "directory": "/home/mahdi/Documents/Code/C/memeory-noteboke",
+    "output": "build/logic.o"
+  },
+  {
+    "file": "src/main.c",
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-Iinclude",
+      "-c",
+      "src/main.c",
+      "-o",
+      "build/main.o"
+    ],
+    "directory": "/home/mahdi/Documents/Code/C/memeory-noteboke",
+    "output": "build/main.o"
+  },
+  {
+    "file": "src/manage-notes.c",
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-Iinclude",
+      "-c",
+      "src/manage-notes.c",
+      "-o",
+      "build/manage-notes.o"
+    ],
+    "directory": "/home/mahdi/Documents/Code/C/memeory-noteboke",
+    "output": "build/manage-notes.o"
+  }
+]
