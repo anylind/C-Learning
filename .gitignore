@@ -57,5 +57,7 @@ dkms.conf
 # Makefile
 build/
 notes/
+program
+compile_commands.json
 *.db
 *.tmp
